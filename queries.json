@@ -1,0 +1,14 @@
+[
+    {
+        "name": "DuckDuckGo",
+        "url": "https://duckduckgo.com/?t=ffab&q="
+    },
+    {
+        "name": "YouTube",
+        "url": "https://www.youtube.com/results?search_query="
+    },
+    {
+        "name": "Twitch",
+        "url": "https://www.twitch.tv/search?term="
+    }
+]
